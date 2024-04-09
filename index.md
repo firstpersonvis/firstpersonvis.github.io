@@ -33,6 +33,6 @@ The workshop will take place on *DATE AND TIME TBD*.
 [Charles Perin](http://charlesperin.net/), University of Victoria <br>
 [Tica Lin](https://ticalin.com), Harvard University <br>
 [Lijie Yao](https://lijieyao.com), Inria and Université Paris-Saclay <br>
-[Yalong Yang](https://ivi.cc.gatech.edu/), Georgia Tech <br>
+[Yalong Yang](https://ivi.cc.gatech.edu/), Georgia Institute of Technology <br>
 [Maxime Cordeil](https://eecs.uq.edu.au/profile/5945/maxime-cordeil), University of Queensland <br>
 [Wesley Willett](https://dataexperience.cpsc.ucalgary.ca), University of Calgary

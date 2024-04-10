@@ -17,16 +17,73 @@ The workshop will take place on *DATE AND TIME TBD*.
 
 
 # What to Expect
-...
+This will be a half-day hybrid workshop. To best leverage the
+workshop format, we will minimize the amount of time dedicated to
+talks and presentations and maximize the amount of time dedicated
+to active group work and discussions. 
+
+**Presentations and Introduction of Challenges:**
+Each accepted
+submission will be given 3-5min to present (depending on number
+of accepted submissions), followed by a Q&A session. 
+We will then collectively list challenges based on submissions and  presentations.
+
+**Hands-on session:** 
+We will invite the workshop participants to self-
+select an identified challenge they are particularly interested in, and
+to form groups based on interest. We will provide templates that
+each formed group will fill during that session, highlighting the challenge, 
+an exemplar case study, and resulting research opportunities.
+
+**Wrap-up discussion & next steps:**
+We will convene a structured discussion informed by the hands-on session and discuss the concrete next step of writing a research
+paper based on the workshop output. After the workshop, a voluntary workshop lunch will be
+planned for in-person attendees to encourage community building.
+
+## Intended Outcome
+The primary intended outcome of this workshop is to establish a
+list of challenges and opportunities and to identify a group of
+authors that will work together on a joint publication that lays out a
+research agenda of the topic.
 
 
 # Call for Participation
-...
 
+The topic of third-person visualization for sports and physical activity has recently gained traction in the visualization community (e.g., for viewers, analysts, coaches, journalists, etc.. to view, monitor and analyze data). 
+Recent work in the emerging area of SportsXR (immersive analytics in sports) has also taken a step forward in combining modern technology and sensors with innovative immersive visualization techniques to provide (real-time)
+access to information during sports events, such as statistics and likelihood of events in team sports.
+The broad HCI community has embraced emerging technology such as wearables, VR/AR/XR and sensors to both study HCI in the context of sports and physical activities, and to study sports and physical activities through the lens of HCI. 
+
+Building on this past work, this workshop explores first-person visualization support for people to use while they are performing sports and physical activities -- a topic that intersects visualization and multiple HCI disciplines concerned with wearables, virtual and augmented reality, ubiquitous computing, social computing, and more.
+This context, in which the viewer, or analyst, is the person performing a (strenuous) activity raises many challenges, such as:
+
+- **Design and technology challenges**, such as how might we leverage emerging wearable technology such as AR glasses? How to design visualizations for such devices? How to consider the outdoor environment in the design of such interfaces? What should new technology support and enable?
+- ** Interaction challenges**, such as how to interact with visualizations in these non-typical office or lab environments? Can multi-modal approaches to interaction be leveraged and how?
+- **Perceptual and cognitive challenges**, such as how might visualization be potentially distracting and negatively affecting people's main focus of performing their activity? How might attention, perception and cognition be affected by fatigue, effort, and concentration? How do people perceive, interpret, and make decisions about data, under limited attentional capacity?
+- **Evaluation challenges**, such as how to collect participant data? How to design studies while maintaining realism? What protocols, sensors and other study instruments are appropriate and need to be developed? What tasks need to be supported?
+
+
+## Submission format
+We invite speculative designs for a specific case study along with a statement that demonstrates the authors' knowledge/expertise of the case study, and visual illustrations of these speculative designs and case study. 
+The intention is that these will resemble annotated pictorial submissions or posters in which the main communication medium is the illustration(s). 
+
+Secondary types of accepted submissions are position papers and reflections (on specific case studies).
+
+Although we encourage submissions to be made using the [official IEEE Conferences template](https://tc.computer.org/vgtc/publications/conference/), submissions in any format will be accepted, as long as they are submitted as a pdf file. Recommended submission length is between 1000 and 2500 words with any number of accompanying figures, but longer submissions will be considered.
+Accepted submissions **will not** be published on the IEEE Library and is not considered archived. This means that all the content of the submissions can be published elsewhere afterwards.
+
+**Submission process to be added soon**
+
+## Reviewing
+Each submissions will be reviewed by at least two workshop organizers (or external reviewers in case of conflicts). 
+
+We might follow-up with rejected submissions to offer the authors an opportunity to revise and resubmit.
 
 # Timeline
-...
-
+- July 31, 2023: Submission Deadline
+- August 15, 2023: Reviews Completed
+- August 20, 2023: Author Notification
+- September 15, 2023: Submission Camera Ready Deadline
 
 # Organizers
 

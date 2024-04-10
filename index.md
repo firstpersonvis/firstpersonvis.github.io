@@ -13,7 +13,7 @@ We envision this output to take the form of a publication of which workshop part
 
 The workshop will be part of [IEEE VIS 2024](https://ieeevis.org/) (October 13-18) and will be held in a hybrid format (St. Pete Beach, Florida, USA, and anywhere on earth on Zoom).
 
-The workshop will take place on *DATE AND TIME TBD*.
+The workshop will take place on **[date and time to be added soon]**.
 
 
 # What to Expect
@@ -58,7 +58,7 @@ Building on this past work, this workshop explores first-person visualization su
 This context, in which the viewer, or analyst, is the person performing a (strenuous) activity raises many challenges, such as:
 
 - **Design and technology challenges**, such as how might we leverage emerging wearable technology such as AR glasses? How to design visualizations for such devices? How to consider the outdoor environment in the design of such interfaces? What should new technology support and enable?
-- ** Interaction challenges**, such as how to interact with visualizations in these non-typical office or lab environments? Can multi-modal approaches to interaction be leveraged and how?
+- **Interaction challenges**, such as how to interact with visualizations in these non-typical office or lab environments? Can multi-modal approaches to interaction be leveraged and how?
 - **Perceptual and cognitive challenges**, such as how might visualization be potentially distracting and negatively affecting people's main focus of performing their activity? How might attention, perception and cognition be affected by fatigue, effort, and concentration? How do people perceive, interpret, and make decisions about data, under limited attentional capacity?
 - **Evaluation challenges**, such as how to collect participant data? How to design studies while maintaining realism? What protocols, sensors and other study instruments are appropriate and need to be developed? What tasks need to be supported?
 
@@ -72,7 +72,7 @@ Secondary types of accepted submissions are position papers and reflections (on 
 Although we encourage submissions to be made using the [official IEEE Conferences template](https://tc.computer.org/vgtc/publications/conference/), submissions in any format will be accepted, as long as they are submitted as a pdf file. Recommended submission length is between 1000 and 2500 words with any number of accompanying figures, but longer submissions will be considered.
 Accepted submissions **will not** be published on the IEEE Library and is not considered archived. This means that all the content of the submissions can be published elsewhere afterwards.
 
-**Submission process to be added soon**
+**[Submission process to be added soon]**
 
 ## Reviewing
 Each submissions will be reviewed by at least two workshop organizers (or external reviewers in case of conflicts). 

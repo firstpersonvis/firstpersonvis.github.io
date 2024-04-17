@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: First-Person Visualizations for Outdoor Physical Activities: Challenges and Opportunities
+title: First-Person Visualizations for Outdoor Physical Activities - Challenges and Opportunities
 ---
 
 # First-Person Visualizations for Outdoor Physical Activities: Challenges and Opportunities - Workshop at [IEEE VIS 2024](https://ieeevis.org)
@@ -20,19 +20,19 @@ The workshop will take place on **[date and time to be added soon]**.
 This will be a half-day hybrid workshop. To best leverage the
 workshop format, we will minimize the amount of time dedicated to
 talks and presentations and maximize the amount of time dedicated
-to active group work and discussions. 
+to active group work and discussions.
 
 **Presentations and Introduction of Challenges:**
 Each accepted
 submission will be given 3-5min to present (depending on number
-of accepted submissions), followed by a Q&A session. 
+of accepted submissions), followed by a Q&A session.
 We will then collectively list challenges based on submissions and  presentations.
 
-**Hands-on session:** 
+**Hands-on session:**
 We will invite the workshop participants to self-
 select an identified challenge they are particularly interested in, and
 to form groups based on interest. We will provide templates that
-each formed group will fill during that session, highlighting the challenge, 
+each formed group will fill during that session, highlighting the challenge,
 an exemplar case study, and resulting research opportunities.
 
 **Wrap-up discussion & next steps:**
@@ -49,10 +49,10 @@ research agenda of the topic.
 
 # Call for Participation
 
-The topic of third-person visualization for sports and physical activity has recently gained traction in the visualization community (e.g., for viewers, analysts, coaches, journalists, etc.. to view, monitor and analyze data). 
+The topic of third-person visualization for sports and physical activity has recently gained traction in the visualization community (e.g., for viewers, analysts, coaches, journalists, etc.. to view, monitor and analyze data).
 Recent work in the emerging area of SportsXR (immersive analytics in sports) has also taken a step forward in combining modern technology and sensors with innovative immersive visualization techniques to provide (real-time)
 access to information during sports events, such as statistics and likelihood of events in team sports.
-The broad HCI community has embraced emerging technology such as wearables, VR/AR/XR and sensors to both study HCI in the context of sports and physical activities, and to study sports and physical activities through the lens of HCI. 
+The broad HCI community has embraced emerging technology such as wearables, VR/AR/XR and sensors to both study HCI in the context of sports and physical activities, and to study sports and physical activities through the lens of HCI.
 
 Building on this past work, this workshop explores first-person visualization support for people to use while they are performing sports and physical activities -- a topic that intersects visualization and multiple HCI disciplines concerned with wearables, virtual and augmented reality, ubiquitous computing, social computing, and more.
 This context, in which the viewer, or analyst, is the person performing a (strenuous) activity raises many challenges, such as:
@@ -64,8 +64,8 @@ This context, in which the viewer, or analyst, is the person performing a (stren
 
 
 ## Submission format
-We invite speculative designs for a specific case study along with a statement that demonstrates the authors' knowledge/expertise of the case study, and visual illustrations of these speculative designs and case study. 
-The intention is that these will resemble annotated pictorial submissions or posters in which the main communication medium is the illustration(s). 
+We invite speculative designs for a specific case study along with a statement that demonstrates the authors' knowledge/expertise of the case study, and visual illustrations of these speculative designs and case study.
+The intention is that these will resemble annotated pictorial submissions or posters in which the main communication medium is the illustration(s).
 
 Secondary types of accepted submissions are position papers and reflections (on specific case studies).
 
@@ -75,7 +75,7 @@ Accepted submissions **will not** be published on the IEEE Library and is not co
 **[Submission process to be added soon]**
 
 ## Reviewing
-Each submissions will be reviewed by at least two workshop organizers (or external reviewers in case of conflicts). 
+Each submissions will be reviewed by at least two workshop organizers (or external reviewers in case of conflicts).
 
 We might follow-up with rejected submissions to offer the authors an opportunity to revise and resubmit.
 

@@ -18,37 +18,6 @@ The workshop will take place on **[date and time to be added soon]**.
 **Submit your work using this [Google Form](https://forms.gle/C7yxFFuATfgxpUWt8)**
 
 
-# What to Expect
-This will be a half-day hybrid workshop. To best leverage the
-workshop format, we will minimize the amount of time dedicated to
-talks and presentations and maximize the amount of time dedicated
-to active group work and discussions.
-
-**Presentations and Introduction of Challenges:**
-Each accepted
-submission will be given 3-5min to present (depending on number
-of accepted submissions), followed by a Q&A session.
-We will then collectively list challenges based on submissions and  presentations.
-
-**Hands-on session:**
-We will invite the workshop participants to self-
-select an identified challenge they are particularly interested in, and
-to form groups based on interest. We will provide templates that
-each formed group will fill during that session, highlighting the challenge,
-an exemplar case study, and resulting research opportunities.
-
-**Wrap-up discussion & next steps:**
-We will convene a structured discussion informed by the hands-on session and discuss the concrete next step of writing a research
-paper based on the workshop output. After the workshop, a voluntary workshop lunch will be
-planned for in-person attendees to encourage community building.
-
-## Intended Outcome
-The primary intended outcome of this workshop is to establish a
-list of challenges and opportunities and to identify a group of
-authors that will work together on a joint publication that lays out a
-research agenda of the topic.
-
-
 # Call for Participation
 
 The topic of third-person visualization for sports and physical activity has recently gained traction in the visualization community (e.g., for viewers, analysts, coaches, journalists, etc.. to view, monitor and analyze data).
@@ -86,11 +55,46 @@ Each submissions will be reviewed by at least two workshop organizers (or extern
 
 We might follow-up with rejected submissions to offer the authors an opportunity to revise and resubmit.
 
+
+
+
 # Timeline
 - July 31, 2023: Submission Deadline
 - August 15, 2023: Reviews Completed
 - August 20, 2023: Author Notification
 - September 15, 2023: Submission Camera Ready Deadline
+
+# What to Expect
+This will be a half-day hybrid workshop. To best leverage the
+workshop format, we will minimize the amount of time dedicated to
+talks and presentations and maximize the amount of time dedicated
+to active group work and discussions.
+
+**Presentations and Introduction of Challenges:**
+Each accepted
+submission will be given 3-5min to present (depending on number
+of accepted submissions), followed by a Q&A session.
+We will then collectively list challenges based on submissions and  presentations.
+
+**Hands-on session:**
+We will invite the workshop participants to self-
+select an identified challenge they are particularly interested in, and
+to form groups based on interest. We will provide templates that
+each formed group will fill during that session, highlighting the challenge,
+an exemplar case study, and resulting research opportunities.
+
+**Wrap-up discussion & next steps:**
+We will convene a structured discussion informed by the hands-on session and discuss the concrete next step of writing a research
+paper based on the workshop output. After the workshop, a voluntary workshop lunch will be
+planned for in-person attendees to encourage community building.
+
+## Intended Outcome
+The primary intended outcome of this workshop is to establish a
+list of challenges and opportunities and to identify a group of
+authors that will work together on a joint publication that lays out a
+research agenda of the topic.
+
+
 
 # Organizers
 

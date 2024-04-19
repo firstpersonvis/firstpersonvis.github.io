@@ -15,6 +15,8 @@ The workshop will be part of [IEEE VIS 2024](https://ieeevis.org/) (October 13-1
 
 The workshop will take place on **[date and time to be added soon]**.
 
+**Submit your work using this [Google Form](https://forms.gle/C7yxFFuATfgxpUWt8)**
+
 
 # What to Expect
 This will be a half-day hybrid workshop. To best leverage the
@@ -77,7 +79,7 @@ Submissions will be judged based on their relevance to the workshop theme and th
 
 We will host accepted submissions on the workshop’s website. However, they **will not** be published on IEEE Xplore and are not considered archival. This means that all the content from the submissions can be republished elsewhere after the workshop. Authors are also free to share their publications via open access repositories such as [arXiv](https://arxiv.org).
 
-**[Submission process to be added soon]**
+**Submit your work using this [Google Form](https://forms.gle/C7yxFFuATfgxpUWt8)**
 
 ## Reviewing
 Each submissions will be reviewed by at least two workshop organizers (or external reviewers in case of conflicts).

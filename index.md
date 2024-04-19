@@ -63,14 +63,19 @@ This context, in which the viewer, or analyst, is the person performing a (stren
 - **Evaluation challenges**, such as how to collect participant data? How to design studies while maintaining realism? What protocols, sensors and other study instruments are appropriate and need to be developed? What tasks need to be supported?
 
 
-## Submission format
-We invite speculative designs for a specific case study along with a statement that demonstrates the authors' knowledge/expertise of the case study, and visual illustrations of these speculative designs and case study.
-The intention is that these will resemble annotated pictorial submissions or posters in which the main communication medium is the illustration(s).
+## Submission Format
+We encourage a diverse range of submissions that showcase recent work or highlight future opportunities for first-person visualizations in the context of physical activities, including: 
 
-Secondary types of accepted submissions are position papers and reflections (on specific case studies).
+* provocation or reflection statements
+* case studies
+* design fictions
+* work-in-progress reports
 
-Although we encourage submissions to be made using the [official IEEE Conferences template](https://tc.computer.org/vgtc/publications/conference/), submissions in any format will be accepted, as long as they are submitted as a pdf file. Recommended submission length is between 1000 and 2500 words with any number of accompanying figures, but longer submissions will be considered.
-Accepted submissions **will not** be published on the IEEE Library and is not considered archived. This means that all the content of the submissions can be published elsewhere afterwards.
+We encourage submissions using the official [IEEE Conference template](https://tc.computer.org/vgtc/publications/conference/). However submissions in any format — including pictorials, comics, and posters — will be accepted, as long as they are submitted as a pdf file. Recommended submission length is between 1000–2500 words with any number of accompanying figures, but longer or shorter submissions will also be considered. Submissions should **not be anonymized** and must include the authors’ full names, emails, and affiliations. 
+
+Submissions will be judged based on their relevance to the workshop theme and the extent to which they contribute novel knowledge, expertise, discourse, and/or inspiration. At least one author for each accepted submission will need to register for the IEEE VIS conference.
+
+We will host accepted submissions on the workshop’s website. However, they **will not** be published on IEEE Xplore and are not considered archival. This means that all the content from the submissions can be republished elsewhere after the workshop. Authors are also free to share their publications via open access repositories such as [arXiv](https://arxiv.org).
 
 **[Submission process to be added soon]**
 

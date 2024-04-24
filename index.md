@@ -5,10 +5,10 @@ title: First-Person Visualizations for Outdoor Physical Activities - Challenges 
 
 # First-Person Visualizations for Outdoor Physical Activities: Challenges and Opportunities - Workshop at [IEEE VIS 2024](https://ieeevis.org)
 
-This half-day workshop will gather researchers and practitioners interested in first-person visualizations for outdoor physical activities.
-Given the unexplored nature of the topic, the goal of this first workshop is to collect speculative designs informed by experience and expertise.
+This half-day workshop will gather researchers and practitioners interested in first-person visualizations for physical activities.
+Given the unexplored nature of the topic, the goal of this first workshop is to collect speculative designs informed by experience and expertise as well as work in progress, for example leveraging technological advances in SportsXR (immersive analytics in sports), sensors and immersive visualization techniques that provide (real-time) access to information to people performing physical activities in highly dynamic environments.
 
-The goal of this workshop is to build on these speculative designs to i) explore the space of first-person visualizations for outdoor physical activities and ii) derive a research agenda for the visualization community.
+The goals of this workshop are to i) explore the space of first-person visualizations for physical activities and ii) derive a research agenda for the visualization community.
 We envision this output to take the form of a publication of which workshop participants will be invited to become co-authors.
 
 The workshop will be part of [IEEE VIS 2024](https://ieeevis.org/) (October 13-18) and will be held in a hybrid format (St. Pete Beach, Florida, USA, and anywhere on earth on Zoom).
@@ -20,13 +20,8 @@ The workshop will take place on **[date and time to be added soon]**.
 
 # Call for Participation
 
-The topic of third-person visualization for sports and physical activity has recently gained traction in the visualization community (e.g., for viewers, analysts, coaches, journalists, etc.. to view, monitor and analyze data).
-Recent work in the emerging area of SportsXR (immersive analytics in sports) has also taken a step forward in combining modern technology and sensors with innovative immersive visualization techniques to provide (real-time)
-access to information during sports events, such as statistics and likelihood of events in team sports.
-The broad HCI community has embraced emerging technology such as wearables, VR/AR/XR and sensors to both study HCI in the context of sports and physical activities, and to study sports and physical activities through the lens of HCI.
-
-Building on this past work, this workshop explores first-person visualization support for people to use while they are performing sports and physical activities -- a topic that intersects visualization and multiple HCI disciplines concerned with wearables, virtual and augmented reality, ubiquitous computing, social computing, and more.
-This context, in which the viewer, or analyst, is the person performing a (strenuous) activity raises many challenges, such as:
+First-person visualizations refer to visualization support for people while they are performing sports and other physical activities -- a topic that intersects visualization and multiple HCI disciplines concerned with wearables, virtual and augmented reality, ubiquitous computing, social computing, and more.
+This context, in which the viewer, or analyst, is the person performing a (sometimes strenuous, physically and cognitively demanding) activity raises many challenges, such as:
 
 - **Design and technology challenges**, such as how might we leverage emerging wearable technology such as AR glasses? How to design visualizations for such devices? How to consider the outdoor environment in the design of such interfaces? What should new technology support and enable?
 - **Interaction challenges**, such as how to interact with visualizations in these non-typical office or lab environments? Can multi-modal approaches to interaction be leveraged and how?
@@ -35,14 +30,14 @@ This context, in which the viewer, or analyst, is the person performing a (stren
 
 
 ## Submission Format
-We encourage a diverse range of submissions that showcase recent work or highlight future opportunities for first-person visualizations in the context of physical activities, including: 
+We encourage a diverse range of submissions that showcase recent work or highlight future opportunities for first-person visualizations in the context of physical activities, including:
 
 * provocation or reflection statements
 * case studies
 * design fictions
 * work-in-progress reports
 
-We encourage submissions using the official [IEEE Conference template](https://tc.computer.org/vgtc/publications/conference/). However submissions in any format — including pictorials, comics, and posters — will be accepted, as long as they are submitted as a pdf file. Recommended submission length is between 1000–2500 words with any number of accompanying figures, but longer or shorter submissions will also be considered. Submissions should **not be anonymized** and must include the authors’ full names, emails, and affiliations. 
+We encourage submissions using the official [IEEE Conference template](https://tc.computer.org/vgtc/publications/conference/). However submissions in any format — including pictorials, comics, and posters — will be accepted, as long as they are submitted as a pdf file. Recommended submission length is between 1000–2500 words with any number of accompanying figures, but longer or shorter submissions will also be considered. Submissions should **not be anonymized** and must include the authors’ full names, emails, and affiliations.
 
 Submissions will be judged based on their relevance to the workshop theme and the extent to which they contribute novel knowledge, expertise, discourse, and/or inspiration. At least one author for each accepted submission will need to register for the IEEE VIS conference.
 

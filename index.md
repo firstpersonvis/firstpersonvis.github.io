@@ -54,10 +54,10 @@ We might follow-up with rejected submissions to offer the authors an opportunity
 
 
 # Timeline
-- July 31, 2023: Submission Deadline
-- August 15, 2023: Reviews Completed
-- August 20, 2023: Author Notification
-- September 15, 2023: Submission Camera Ready Deadline
+- July 31, 2024: Submission Deadline
+- August 15, 2024: Reviews Completed
+- August 20, 2024: Author Notification
+- September 15, 2024: Submission Camera Ready Deadline
 
 # What to Expect
 This will be a half-day hybrid workshop. To best leverage the

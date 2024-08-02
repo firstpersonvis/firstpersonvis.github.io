@@ -54,7 +54,7 @@ We might follow-up with rejected submissions to offer the authors an opportunity
 
 
 # Timeline
-We are pening a second call for participation:
+We are opening a second call for participation:
 - August 31, 2024: Submission Deadline
 - September 5, 2024: Reviews Completed
 - September 7, 2024: Author Notification

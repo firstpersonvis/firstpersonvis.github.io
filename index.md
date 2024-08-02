@@ -13,7 +13,7 @@ We envision this output to take the form of a publication of which workshop part
 
 The workshop will be part of [IEEE VIS 2024](https://ieeevis.org/) (October 13-18) and will be held in a hybrid format (St. Pete Beach, Florida, USA, and anywhere on earth on Zoom).
 
-The workshop will take place on **[date and time to be added soon]**.
+The workshop will take place on **Sunday, October 13, 2024, morning**.
 
 **Submit your work using this [Google Form](https://forms.gle/C7yxFFuATfgxpUWt8)**
 
@@ -54,6 +54,13 @@ We might follow-up with rejected submissions to offer the authors an opportunity
 
 
 # Timeline
+We are pening a second call for participation:
+- August 31, 2024: Submission Deadline
+- September 5, 2024: Reviews Completed
+- September 7, 2024: Author Notification
+- September 15, 2024: Submission Camera Ready Deadline
+
+First call:
 - July 31, 2024: Submission Deadline
 - August 15, 2024: Reviews Completed
 - August 20, 2024: Author Notification

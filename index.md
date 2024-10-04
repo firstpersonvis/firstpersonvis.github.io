@@ -17,9 +17,10 @@ The workshop will take place on **Sunday, October 13, 2024, morning**.
 
 **Submit your work using this [Google Form](https://forms.gle/C7yxFFuATfgxpUWt8)**
 
-
+<br>
 # Call for Participation
 
+<hr/>
 First-person visualizations refer to visualization support for people while they are performing sports and other physical activities -- a topic that intersects visualization and multiple HCI disciplines concerned with wearables, virtual and augmented reality, ubiquitous computing, social computing, and more.
 This context, in which the viewer, or analyst, is the person performing a (sometimes strenuous, physically and cognitively demanding) activity raises many challenges, such as:
 
@@ -28,14 +29,14 @@ This context, in which the viewer, or analyst, is the person performing a (somet
 - **Perceptual and cognitive challenges**, such as how might visualization be potentially distracting and negatively affecting people's main focus of performing their activity? How might attention, perception and cognition be affected by fatigue, effort, and concentration? How do people perceive, interpret, and make decisions about data, under limited attentional capacity?
 - **Evaluation challenges**, such as how to collect participant data? How to design studies while maintaining realism? What protocols, sensors and other study instruments are appropriate and need to be developed? What tasks need to be supported?
 
-
 ## Submission Format
+
 We encourage a diverse range of submissions that showcase recent work or highlight future opportunities for first-person visualizations in the context of physical activities, including:
 
-* provocation or reflection statements
-* case studies
-* design fictions
-* work-in-progress reports
+- provocation or reflection statements
+- case studies
+- design fictions
+- work-in-progress reports
 
 We encourage submissions using the official [IEEE Conference template](https://tc.computer.org/vgtc/publications/conference/). However submissions in any format — including pictorials, comics, and posters — will be accepted, as long as they are submitted as a pdf file. Recommended submission length is between 1000–2500 words with any number of accompanying figures, but longer or shorter submissions will also be considered. Submissions should **not be anonymized** and must include the authors’ full names, emails, and affiliations.
 
@@ -46,27 +47,31 @@ We will host accepted submissions on the workshop’s website. However, they **w
 **Submit your work using this [Google Form](https://forms.gle/C7yxFFuATfgxpUWt8)**
 
 ## Reviewing
+
 Each submissions will be reviewed by at least two workshop organizers (or external reviewers in case of conflicts).
 
 We might follow-up with rejected submissions to offer the authors an opportunity to revise and resubmit.
 
-
-
-
+<br>
 # Timeline
+
+<hr/>
 We are opening a second call for participation:
+
 - August 31, 2024: Submission Deadline
 - September 5, 2024: Reviews Completed
 - September 7, 2024: Author Notification
 - September 15, 2024: Submission Camera Ready Deadline
 
 First call:
+
 - July 31, 2024: Submission Deadline
 - August 15, 2024: Reviews Completed
 - August 20, 2024: Author Notification
 - September 15, 2024: Submission Camera Ready Deadline
 
-# What to Expect
+## What to Expect
+
 This will be a half-day hybrid workshop. To best leverage the
 workshop format, we will minimize the amount of time dedicated to
 talks and presentations and maximize the amount of time dedicated
@@ -76,7 +81,7 @@ to active group work and discussions.
 Each accepted
 submission will be given 3-5min to present (depending on number
 of accepted submissions), followed by a Q&A session.
-We will then collectively list challenges based on submissions and  presentations.
+We will then collectively list challenges based on submissions and presentations.
 
 **Hands-on session:**
 We will invite the workshop participants to self-
@@ -91,12 +96,71 @@ paper based on the workshop output. After the workshop, a voluntary workshop lun
 planned for in-person attendees to encourage community building.
 
 ## Intended Outcome
+
 The primary intended outcome of this workshop is to establish a
 list of challenges and opportunities and to identify a group of
 authors that will work together on a joint publication that lays out a
 research agenda of the topic.
+<br><br><br>
 
+# Accepted Papers
 
+<hr/>
+## HomeOlympics: Turning Everyday Outdoor Physical Activities into Olympic-Style Experience
+
+**Authors**: Petra Isenberg, Lionel Reveret, Romain Vuillemot<br>
+[paper link](https://drive.google.com/open?id=1IpCrri4ammqm7FpTBsuF19sPnlWgkYQo)
+![Paper 1 Teaser](/assets/img/teasers/teaser-1-Petra.png)
+
+<hr/>
+
+## The Impact of Real-World Environments on Designing Activity-Specific Visualizations for Optical-See-Through Displays
+
+**Authors**: Charles-Olivier Dufresne-Camaro, Bradley Rey, Pourang Irani<br>
+[paper link](https://drive.google.com/open?id=1RshW8ScQcasTqYw-ItmHeSk1K_JSZ3Nu)
+
+<hr/>
+
+## Collecting Information Needs for Egocentric Visualizations while Running
+
+**Authors**: Ahmed Elshabasi, Lijie Yao, Petra Isenberg, Charles Perin, Wesley Willett<br>
+[paper link](https://drive.google.com/open?id=1L7G-_JHFfyhvZ6VHqOjrn4Giq1To7oeL)
+![Paper 3 Teaser](/assets/img/teasers/teaser-3-Ahmed.png)
+
+<hr/>
+
+## Collaborative XRTactics: A Formative Study on Tactical Communication in Outdoor Team Sports
+
+**Authors**: Ut Gong, Qihan Zhang, Ziqing Yin, Stefanie Zollmann<br>
+[paper link](https://drive.google.com/open?id=1HNIXullq8tn4mqD0RLpVEwwao6by0DZC)
+![Paper 4 Teaser](/assets/img/teasers/teaser-4-Ut.jpg)
+
+<hr/>
+
+## Achieving Flow State in Sports with Visual Analytics: Surfing and Spelunking Perspectives
+
+**Author**: Christophe Hurter<br>
+[paper link](https://drive.google.com/open?id=1QL7aVU60CaRRQkyT3AVXJEPuB8WzMdhc)
+![Paper 5 Teaser](/assets/img/teasers/teaser-5-Christophe.png)
+
+<hr/>
+
+## PanoCoach: Enhancing Tactical Coaching and Communication in Soccer with Mixed-Reality Telepresence
+
+**Authors**: Andrew Kang, Hanspeter Pfister, Tica Lin<br>
+[paper link](https://drive.google.com/open?id=1ktwNJXhLtTArz1LvkL2L2BS090RjkLh_)
+![Paper 6 Teaser](/assets/img/teasers/teaser-6-Andrew.png)
+
+<hr/>
+
+## Understanding User Needs for Injury Recovery with Augmented Reality
+
+**Authors**: Jade Kandel, Sriya Kasumarthi, Danielle Albers Szafir<br>
+[paper link](https://drive.google.com/open?id=1HGu10C3hNNGCXEYsLUH2e7Rs-3aE00MZ)
+![Paper 7 Teaser](/assets/img/teasers/teaser-7-Jade.png)
+
+<hr/>
+<br>
 
 # Organizers
 

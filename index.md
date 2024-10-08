@@ -159,7 +159,7 @@ research agenda of the topic.
 [paper link](https://drive.google.com/open?id=1HGu10C3hNNGCXEYsLUH2e7Rs-3aE00MZ)
 ![Paper 7 Teaser](/assets/img/teasers/teaser-7-Jade.png)
 
-<br><br><br>
+<br><br>
 
 # Program
 <hr/>
@@ -183,7 +183,7 @@ Note: 5 minute presentation + 2-3 minutes Q&A for each paper
 | 12:00 | 🍰 🍟 Voluntary Workshop Lunch   |
 
 
-<br><br><br>
+<br><br>
 # Organizers
 <hr/>
 

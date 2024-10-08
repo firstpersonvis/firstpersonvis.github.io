@@ -159,10 +159,33 @@ research agenda of the topic.
 [paper link](https://drive.google.com/open?id=1HGu10C3hNNGCXEYsLUH2e7Rs-3aE00MZ)
 ![Paper 7 Teaser](/assets/img/teasers/teaser-7-Jade.png)
 
-<hr/>
-<br>
+<br><br><br>
 
+# Program
+<hr/>
+| 09:00 - 09:15  | 🌴 🌴 Opening and Outline |
+
+| 09:15 - 10:15 | 🐬 🎸 Presentations and Introduction of Challenges     |
+
+Note: 5 minute presentation + 2-3 minutes Q&A for each paper
+- HomeOlympics: Turning Everyday Outdoor Physical Activities into Olympic-Style Experience
+- The Impact of Real-World Environments on Designing Activity-Specific Visualizations for Optical-See-Through Displays
+- Collecting Information Needs for Egocentric Visualizations while Running
+- Collaborative XRTactics: A Formative Study on Tactical Communication in Outdoor Team Sports
+- Achieving Flow State in Sports with Visual Analytics: Surfing and Spelunking Perspectives
+- PanoCoach: Enhancing Tactical Coaching and Communication in Soccer with Mixed-Reality Telepresence
+- Understanding User Needs for Injury Recovery with Augmented Reality
+
+| | |
+| 10: 15 - 10:45 | ☕  Coffee Break    |
+| 10:45 - 11:30 | 🔨 🏃 Hands-on Sessions in Groups    |
+| 11:30 - 12:00 | 📜 Wrap-up Discussion & Next Steps    |
+| 12:00 | 🍰 🍟 Voluntary Workshop Lunch   |
+
+
+<br><br><br>
 # Organizers
+<hr/>
 
 [Charles Perin](http://charlesperin.net/), University of Victoria <br>
 [Tica Lin](https://ticalin.com), Harvard University <br>

@@ -163,9 +163,9 @@ research agenda of the topic.
 
 # Program
 <hr/>
-| 09:00 - 09:15  | 🌴 🌴 Opening and Outline |
+| 08:30 - 08:45  | 🌴 🌴 Opening and Outline |
 
-| 09:15 - 10:15 | 🐬 🎸 Presentations and Introduction of Challenges     |
+| 08:45 - 09:45 | 🐬 🎸 Presentations and Introduction of Challenges     |
 
 Note: 5 minute presentation + 2-3 minutes Q&A for each paper
 - HomeOlympics: Turning Everyday Outdoor Physical Activities into Olympic-Style Experience
@@ -177,10 +177,10 @@ Note: 5 minute presentation + 2-3 minutes Q&A for each paper
 - Understanding User Needs for Injury Recovery with Augmented Reality
 
 | | |
-| 10: 15 - 10:45 | ☕  Coffee Break    |
-| 10:45 - 11:30 | 🔨 🏃 Hands-on Sessions in Groups    |
-| 11:30 - 12:00 | 📜 Wrap-up Discussion & Next Steps    |
-| 12:00 | 🍰 🍟 Voluntary Workshop Lunch   |
+| 09:45 - 10:15 | ☕  Coffee Break    |
+| 10:15 - 11:00 | 🔨 🏃 Hands-on Sessions in Groups    |
+| 11:00 - 11:30 | 📜 Wrap-up Discussion & Next Steps    |
+| 11:30 | 🍰 🍟 Voluntary Workshop Lunch   |
 
 
 <br><br>

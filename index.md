@@ -177,9 +177,9 @@ Note: 5 minute presentation + 2-3 minutes Q&A for each paper
 - Understanding User Needs for Injury Recovery with Augmented Reality
 
 | | |
-| 09:45 - 10:15 | ☕  Coffee Break    |
-| 10:15 - 11:00 | 🔨 🏃 Hands-on Sessions in Groups    |
-| 11:00 - 11:30 | 📜 Wrap-up Discussion & Next Steps    |
+| 09:45 - 10:00 | ☕ ☕ Coffee Break    |
+| 10:00 - 11:00 | 🔨 🏃 Hands-on Sessions in Groups    |
+| 11:00 - 11:30 | 📜 📜 Wrap-up Discussion & Next Steps    |
 | 11:30 | 🍰 🍟 Voluntary Workshop Lunch   |
 
 

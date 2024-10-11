@@ -167,7 +167,7 @@ research agenda of the topic.
 
 | 08:45 - 09:45 | 🐬 🎸 Presentations and Introduction of Challenges     |
 
-Note: 5 minute presentation + 2-3 minutes Q&A for each paper
+Note: 5 minutes presentation + 2-3 minutes Q&A for each paper
 - HomeOlympics: Turning Everyday Outdoor Physical Activities into Olympic-Style Experience
 - The Impact of Real-World Environments on Designing Activity-Specific Visualizations for Optical-See-Through Displays
 - Collecting Information Needs for Egocentric Visualizations while Running
